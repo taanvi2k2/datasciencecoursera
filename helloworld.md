@@ -1,4 +1,4 @@
-this isa markdown file
+this is a markdown file
 ================
 
 ## R Markdown
